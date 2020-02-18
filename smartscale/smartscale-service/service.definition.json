@@ -13,7 +13,7 @@
     "deployment": {
         "services": {
             "smartscale-service": {
-                "image": "${DOCKER_IMAGE_BASE}:v1",
+                "image": "${DOCKER_IMAGE_BASE}_$ARCH:v1",
                 "privileged": false
             }
         }
