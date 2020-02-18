@@ -1,0 +1,6 @@
+{
+    "properties": [
+        {"name":"purpose","value":"content-monitor"}
+    ],
+    "constraints": ["openhorizon.memory >= 300", "smartcart = true"]
+}

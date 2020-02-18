@@ -1,0 +1,6 @@
+{
+    "properties": [
+        {"name":"purpose","value":"battery-monitor"}
+    ],
+    "constraints": ["openhorizon.memory >= 300"]
+}
