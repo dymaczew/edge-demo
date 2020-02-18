@@ -15,7 +15,7 @@
             "battery-service": {
                 "image": "${DOCKER_IMAGE_BASE}_$ARCH:v1",
                 "ports": [{"HostPort":"8080:8080/tcp","HostIP":"0.0.0.0"}],
-                "privileged": "false"
+                "privileged": false
             }
         }
     }
