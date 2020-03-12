@@ -1,4 +1,4 @@
-# Simple NodeJS application
+# Sample Edge application
 
 This is a simple application that will respond to a CURL request with a pair of random words separated with a `-`character.
 

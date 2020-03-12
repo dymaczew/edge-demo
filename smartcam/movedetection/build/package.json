@@ -1,7 +1,7 @@
 {
-  "name": "smartcart",
+  "name": "movedetection",
   "version": "1.0.0",
-  "description": "Node.js",
+  "description": "Sampe Edge app",
   "author": "Richard Hine<rhine@uk.ibm.com>",
   "main": "server.js",
   "scripts": {
