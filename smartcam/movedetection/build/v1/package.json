@@ -1,0 +1,14 @@
+{
+  "name": "smartcart",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "author": "Richard Hine<rhine@uk.ibm.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "random-words": "^1.1.0"
+  }
+}
