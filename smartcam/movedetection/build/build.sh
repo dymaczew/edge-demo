@@ -14,7 +14,7 @@ if [ -z "$ARCH" ]; then
   arch=`uname -m`
   if [ "$arch" == "x86_64" ]; then
     ARCH=amd64
-  elif [ "$arch" == "armv71" ]; then
+  elif [ "$arch" == "armv7l" ]; then
     ARCH=arm
   fi
 fi
