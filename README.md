@@ -1,3 +1,3 @@
-# Sample Edge services for Faststart2020
+# Files required to run IBM Edge Application Manager Hands-on Lab scenarios
 
-[Instructions to be found here](https://ibm.biz/fs20edge)
+[Instructions to be found here](ibm.com/demos)
