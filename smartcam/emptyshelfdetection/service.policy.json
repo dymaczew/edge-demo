@@ -1,0 +1,6 @@
+{
+    "properties": [
+        {"name":"purpose","value":"smart-video-analytics"}
+    ],
+    "constraints": ["openhorizon.memory >= 1000"]
+}

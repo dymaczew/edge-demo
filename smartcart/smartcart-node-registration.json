@@ -1,11 +1,10 @@
 {
-    "properties": [   /* A list of policy properties that describe the object. */
+    "properties": [ 
       {"name": "smartcart","value": true},
       {"name": "location", "value": "3801 S Las Vegas Blvd, NV 89109, USA"},
       {"name": "type", "value": "SmartCart1"}
     ],
-    "constraints": [  /* A list of constraint expressions of the form <property name> <operator> <property value>, separated by boolean o
-  perators AND (&&) or OR (||). */
+    "constraints": [  
       "purpose == battery-monitor OR purpose == content-monitor"
     ]
   }

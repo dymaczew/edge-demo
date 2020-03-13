@@ -1,5 +1,5 @@
 {
-    "HZN_ORG_ID": "bluem1",
+    "HZN_ORG_ID": "acmegrocery",
     "MetadataVars": {
         "DOCKER_IMAGE_BASE": "acmegrocery/scales",
         "SERVICE_NAME": "smartscale-service",

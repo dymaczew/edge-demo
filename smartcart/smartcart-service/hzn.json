@@ -1,5 +1,5 @@
 {
-    "HZN_ORG_ID": "bluem1",
+    "HZN_ORG_ID": "acmegrocery",
     "MetadataVars": {
         "DOCKER_IMAGE_BASE": "acmegrocery/analysis",
         "SERVICE_NAME": "smartcart-service",

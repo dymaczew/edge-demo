@@ -1,0 +1,8 @@
+{
+    "HZN_ORG_ID": "acmegrocery",
+    "MetadataVars": {
+        "DOCKER_IMAGE_BASE": "acmegrocery/emptyshelf",
+        "SERVICE_NAME": "emptyshelf-service",
+        "SERVICE_VERSION": "1.0.0"
+    }
+}
