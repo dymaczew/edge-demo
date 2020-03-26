@@ -1,8 +1,8 @@
 {
     "properties": [   
       {"name": "GPUinstalled","value": false},
-      {"name": "location", "value": "Main entrance"},
-      {"name": "type", "value": "SmartCam Type A"}
+      {"name": "location", "value": "Main_entrance"},
+      {"name": "type", "value": "SmartCam-Type-A"}
     ],
     "constraints": [ 
       "purpose == security-monitoring OR purpose == smart-video-analytics"
