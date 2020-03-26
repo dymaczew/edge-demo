@@ -1,8 +1,8 @@
 {
     "properties": [   
       {"name": "smartscale","value": true},
-      {"name": "location", "value": "Fresh Vegetables"},
-      {"name": "type", "value": "SmartScale Video Analytics 1000"}
+      {"name": "location", "value": "Fresh_Vegetables"},
+      {"name": "type", "value": "SmartScale-Video-Analytics-1000"}
     ],
     "constraints": [ 
       "purpose == battery-monitor OR purpose == image-analysis"
